@@ -1,4 +1,4 @@
-#Learn Next13 & socket.io
+Learn Next13 & socket.io
 
 - Real-time messaging using Socket.io
 - Send attachments as messages using UploadThing
